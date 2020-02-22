@@ -1,5 +1,5 @@
 Instruction to run the project 
-Show to have install follwing dependency
+You have to  install follwing dependency
 asgiref==3.2.3
 beautifulsoup4==4.8.2
 CacheControl==0.12.5
